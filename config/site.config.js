@@ -49,10 +49,6 @@ module.exports = {
   // you provide. See the documentation for details.
   links: [
     {
-      name: 'Server',
-      link: 'https://monitor.sunyz.net',
-    },
-    {
       name: 'GitHub',
       link: 'https://github.com/realSunyz',
     },
