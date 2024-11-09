@@ -1,12 +1,7 @@
 /**
- * This file contains the configuration for the API endpoints and tokens we use.
- *
- * - If you are a OneDrive International user, you would not have to change anything here.
- * - If you are not the admin of your OneDrive for Business account, you may need to define your own clientId/clientSecret,
- *   check documentation for more details.
- * - If you are using a E5 Subscription OneDrive for Business account, the direct links of your files are not the same here.
- *   In which case you would need to change directLinkRegex.
+ * This file contains the configuration for the API endpoints and tokens use.
  */
+
 module.exports = {
   // The clientId and clientSecret are used to authenticate the user with Microsoft Graph API using OAuth. You would
   // not need to change anything here if you can authenticate with your personal Microsoft account with OneDrive International.
